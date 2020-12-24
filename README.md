@@ -1,1 +1,1 @@
-# Technocolabs-Machine-LearningbInternship
+# Technocolabs-Machine-Learning-Internship
